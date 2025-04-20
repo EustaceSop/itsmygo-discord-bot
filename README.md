@@ -18,8 +18,8 @@ https://www.ionos.com/digitalguide/server/know-how/creating-discord-bot/
 `pip install -r requirements.txt`
 - 免費discord bot託管
 https://freeserver.tw/
-- 如果你不想自己架 這裡可以邀請機器人
-https://discord.com/oauth2/authorize?client_id=1288112334547714048&permissions=8&integration_type=0&scope=bot+applications.commands
+- 如果你不想自己架 這裡可以邀請機器人(已荒廢)
+~~https://discord.com/oauth2/authorize?client_id=1288112334547714048&permissions=8&integration_type=0&scope=bot+applications.commands~~
 
 
 感謝海克斯索菲亞的class
